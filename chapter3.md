@@ -1,0 +1,3 @@
+---
+title       : Characterizing a Brain Network
+description : Size, nodes, Atlasm and so on...
